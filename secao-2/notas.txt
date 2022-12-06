@@ -10,3 +10,5 @@
 - grid-template-areas: "cabecalho" "principal" "rodape"; esses parametros indicam o qual area cada conteudo vai ocupar. Esses parametros dizem respeito a uma propriedade do grei-area, logo, deve-se criar essa propriedade da seguinte forma: grid-area: cabecalho; dentro da classe determianda.
 
 -display: flex; Por padrão coloca todos os elementos na mesma linha
+
+-overflow-y: scroll; Se os elementos colocados dentro da área definida como conteúdo forem maiores do que a área, vai se criar um scroll apenas na área do conteúdo.
