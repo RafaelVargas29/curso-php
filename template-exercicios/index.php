@@ -89,6 +89,8 @@
                             <li><a href="#">Exercício C</a></li>
                         </ul>
                     </div>
+
+                    
                </nav>
             </div>
         </main>
