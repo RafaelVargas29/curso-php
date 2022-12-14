@@ -1,1 +1,3 @@
+---------------------------------------------------PHP---------------------------------------------------
 - Console interativo do php: Vá até o prompt de comando e digite 'php -a'
+- Para escrever algo sem precisar do 'echo' no PHP, usa-se <?= codigo desejado ?>
